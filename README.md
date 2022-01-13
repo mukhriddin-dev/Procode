@@ -11,3 +11,6 @@ Requirements:
 4. Ishlashdan oldin pull qilib oling
 5. Deadline ga amal qiling (01.02.2022)
 6. Commitlar barchaga tushunarli bo'lsin
+
+
+# BLOG #FAQ #SERVICE-DETAILS ==> Mukhriddin Khodiev (MERN STACK)
